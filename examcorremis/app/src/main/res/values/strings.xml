@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">examcorremis</string>
+    <string name="tesoem">Tecnologico de Estudios Superiores del Oriente del Estado de Mexico</string>
+    <string name="saludoventana">SALUDAR EN OTRA VENTANA</string>
+    <string name="mnombre">Ingresa tu nombre</string>
+    <string name="mbtnsaludar">SALUDAR EMERGENTE</string>
+    <string name="mopera">OPERACIONES</string>
+    <string name="ope">operaciones</string>
+    <string name="btnsuma">SUMA</string>
+    <string name="btnresta">RESTA</string>
+    <string name="btnpotencia">POTENCIA</string>
+    <string name="btnsalida">SALIDA</string>
+    <string name="sum">SUMA</string>
+    <string name="btnresultado">CALCULAR RESULTADO</string>
+    <string name="ingrevalor1">ingresa valor 1</string>
+    <string name="ingrevalor2">ingresa valor 2</string>
+    <string name="bresta">RESTA</string>
+    <string name="r" />
+    <string name="pppotencia">POTENCIA</string>
+</resources>
